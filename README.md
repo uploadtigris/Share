@@ -1,3 +1,5 @@
+***No code work yet, still in the planning stage***
+
 # Share
 A social app for sharing media recommendations with others!
 
